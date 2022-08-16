@@ -41,7 +41,7 @@
     list-style: none;
     text-align: center;
     width: 60vw;
-    justify-content:baseline;
+    justify-content:end;
     margin-right: 2rem;
   }
   
@@ -101,10 +101,10 @@
     }
   
     .nav-links {
-      text-align: center;
+      text-align:center;
       padding: 2rem;
       width: 100%;
-      display: table;
+      display:table;
     }
   
     .nav-links:hover {

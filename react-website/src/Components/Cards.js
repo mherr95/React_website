@@ -20,6 +20,21 @@ function Cards() {
                     text='Travel through the Isalnds of Bali in a Private Cruise'
                     label='Luxury'
                     path='/sercvices' />
+                     <CardItem 
+                    src='images/img-3.jpeg'
+                    text='Set Sail in the Altantic Ocean visiting Uncharted Waters'
+                    label='Mystery'
+                    path='/sercvices' />
+                     <CardItem 
+                    src='images/img-4.jpeg'
+                    text='Experience Football on Top of the Himilayan Mountains'
+                    label='Sports'
+                    path='/products' />
+                     <CardItem 
+                    src='images/img-8.jpeg'
+                    text='Ride through the Sahara Desert on a guided camel tour'
+                    label='Adrenaline'
+                    path='/sign-up' />
                 </ul>
             </div>
         </div>
